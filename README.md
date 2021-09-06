@@ -1,5 +1,5 @@
 # Scrapy_Fundos_Imobiliarios_Filtrados
-<h3> Crawler de Fundos Imobiliários ultilizando o site fundamentus.com.br</h3>
+<h3> Crawler que capta e filtra Fundos Imobiliários ultilizando o site fundamentus.com.br</h3>
 
 ![Captura de tela 2021-09-03 181318](https://user-images.githubusercontent.com/53584953/132065825-ab14935f-328f-4c9b-98d3-ddd2d3cc4858.png)
 
