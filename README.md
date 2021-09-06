@@ -6,7 +6,9 @@
 ### Video de onde codigo foi inspirado.
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/IazEN13o304/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc3Ks7-FTNBaeHO91dnjDhCETYFw)](https://www.youtube.com/watch?v=IazEN13o304&t=984s&ab_channel=OPrimoRico)
 
-Video produzido pelo canal Primo Rico.
+Video produzido pelo canal Primo Rico.<br>
+
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/dK7pLhqVl-Y/mqdefault.jpg?v=61366866&sqp=CIjP2YkG&rs=AOn4CLBYXH7tZWLLw9fERLy7KiyDM0_Dvg)](https://youtu.be/dK7pLhqVl-Y)
 
 
 
