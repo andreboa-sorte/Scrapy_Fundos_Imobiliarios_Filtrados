@@ -14,7 +14,7 @@
 
 ***
 ### Objetivo do codigo:
-* Coletar todos os dados dos FIIs.
+* Coletar todos os dados dos Fundos Imobiliários.
 * Filtra os dados por meio do filtro apresentado no video do Primo Rico.
 
 **Qual o filtro apresentado no video?**
@@ -23,6 +23,11 @@
 >**Valor de mercado:** Maior que 500M (500.000.000) <br>
 >**Vacancia:** Menor que 30%<br>
 >**Liquidez:** Mais que 1M (1.000.000)
+
+**Link para a versão do código que coleta todos os dados sem filtro:** <br>
+https://github.com/andreboa-sorte/Scrapy_Fundos_Imobiliarios
+
+***
 
 <strong>Itens ultilizados e versoniamentos:</strong>
 * Python 3.9.0
