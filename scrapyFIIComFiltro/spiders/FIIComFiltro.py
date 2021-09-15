@@ -5,7 +5,7 @@ class FiicomfiltroSpider(scrapy.Spider):
     name = 'FIIComFiltro'
     #allowed_domains = ['www.fundamentus.com.br/fii_resultado.php']
     start_urls = ['http://www.fundamentus.com.br/fii_resultado.php/']  # o link q sera "scrapydo".
-                                                                        # como é somente vamos pegar os dados de um demonio,
+                                                                        # como é somente vamos pegar os dados de um dominio,
                                                                         # então não vamos usar o allowed_domains
 
     def parse(self, response):
