@@ -3,14 +3,11 @@
 
 ![Captura de tela 2021-09-03 181318](https://user-images.githubusercontent.com/53584953/132065825-ab14935f-328f-4c9b-98d3-ddd2d3cc4858.png)
 
-### Vídeo explicando como o codigo foi feito. 
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/53584953/133646055-baa74c2a-1ee8-46f3-bf57-915e737429df.jpg)](https://youtu.be/dK7pLhqVl-Y)
-<br>*(Clique na imamge para ser redirecionado)*
 
-
-### Vídeo de onde codigo foi inspirado.
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/IazEN13o304/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc3Ks7-FTNBaeHO91dnjDhCETYFw)](https://www.youtube.com/watch?v=IazEN13o304&t=984s&ab_channel=OPrimoRico)
-<br>*(Clique na imamge para ser redirecionado)*
+  |**Vídeo explicando como o codigo foi feito.** | **Vídeo de onde codigo foi inspirado.**|
+  |:--------------------------------------------:|:--------------------------------------:|
+  |[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/53584953/133646055-baa74c2a-1ee8-46f3-bf57-915e737429df.jpg)](https://youtu.be/dK7pLhqVl-Y) |  [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/IazEN13o304/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc3Ks7-FTNBaeHO91dnjDhCETYFw)](https://www.youtube.com/watch?v=IazEN13o304&t=984s&ab_channel=OPrimoRico)|
+  |*(Clique na imamge para ser redirecionado)* | *(Clique na imamge para ser redirecionado)*|
 
 ***
 ### Objetivo do codigo:
