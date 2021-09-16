@@ -4,7 +4,7 @@
 ![Captura de tela 2021-09-03 181318](https://user-images.githubusercontent.com/53584953/132065825-ab14935f-328f-4c9b-98d3-ddd2d3cc4858.png)
 
 ### Vídeo explicando como o codigo foi feito. 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/dK7pLhqVl-Y/mqdefault.jpg?v=61366866&sqp=CIjP2YkG&rs=AOn4CLBYXH7tZWLLw9fERLy7KiyDM0_Dvg)](https://youtu.be/dK7pLhqVl-Y)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/53584953/133646055-baa74c2a-1ee8-46f3-bf57-915e737429df.jpg)](https://youtu.be/dK7pLhqVl-Y)
 <br>*(Clique na imamge para ser redirecionado)*
 
 
